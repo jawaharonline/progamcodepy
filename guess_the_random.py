@@ -1,4 +1,5 @@
-print("Guess the number between 1-30")
+# Guess the number between 1-30
+
 import random
 n = 20
 guessing = int(n * random.random()) + 1
