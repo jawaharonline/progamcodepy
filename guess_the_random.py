@@ -1,4 +1,4 @@
-# Guess the number between 1-30
+# Guess the number between 1-20
 
 import random
 n = 20
